@@ -1,0 +1,59 @@
+
+
+
+
+
+; Description of Project for CSc 335 -- November 9 2019
+
+; Version 1.0  -- if anything needs changing after we have had a chance for discussion, I will repost.  
+
+
+
+
+; Projects should (1) be motivated by one or two research papers, published in the past 25 years, and (2) be written in 
+; purely functional Scheme. 
+
+; Whatever project you choose, your writeup (roughly 15 pages) should include a brief historical overview of your topic, along with a discussion 
+; of its significance.  
+
+; Project proposals - along with a pdf of at least one of the research papers you intend to cite -  as well as team selections, 
+; are due (by email) by Wednesday, November 27.  I am available (by email, as well as in office hours)
+; to discuss your preliminary project ideas.
+
+; Students are to form teams on their own: I suggest using Piazza to find people with similar interests and final exam schedules.  Teams 
+; are restricted to consist of students whose scores on the first exam differ by no more than 1 letter grade: that is, the maximum spread
+; of grades between any two students on a team is 1 letter grade.  
+
+
+; Progress reports - which should be by email - should be submitted by Friday, December 6.  The goal of these 
+; brief and informal reports is to give me a chance to provide feedback before you submit the final project.
+
+; Final projects are due at the start of each team's presentation.  The project write-ups, again, approximately 15 pages in length,
+; are to be professional quality. This means: plastic covers wrapping outstanding content.  Your projects, along with working code, and pdfs of your 
+; references, need to be emailed to me by the same deadline.  
+
+; I do not expect proofs in your write-ups. 
+
+; Presentations will last 25 minutes -- approximately 15 - 20 minutes of summary, with 5 - 10 minutes
+; for my questions.  A grade penalty will be imposed on the slacker(s) if it turns out that any team member(s) has (have) not
+; contributed -- one of the goals of the question period is to allow me to check that
+; all team members are able to answer basic questions about the project. In particular, each team member is expected to make
+; significant contributions to the coding effort: I do not want to see one or two members having done almost all of the coding, while the others focus
+; on other aspects of the project. 
+
+; Project presentations will occur between Monday, 12/16 and Wednesday 12/18, starting each day at 1 pm.  The final exam is scheduled (by the College) for 
+; December 19.
+
+; I will circulate a presentation sign up sheet in class early in December -- you will need to choose your teams so that all members are free at the time of the 
+; project presentation: consult the final exam schedule!
+
+
+
+
+; Important Dates
+
+; November 27 : project proposals and team selections due.  
+; December 6 : progress reports due
+; December 16 - 18 : presentations   
+
+
